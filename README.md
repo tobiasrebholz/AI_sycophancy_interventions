@@ -1,4 +1,4 @@
-# AI_sycophancy_interventions
+# AI Sycophancy Interventions
 
 Work in progress...
 
